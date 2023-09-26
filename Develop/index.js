@@ -87,14 +87,15 @@ function writeToFile(fileName, data) {
   ## Usage
   ${answers.usage}
   
+  ## License
+  This project is licensed under the ${answers.license} License.
+  
   ## Contributing
   ${answers.contributing}
   
   ## Tests
   ${answers.tests}
   
-  ## License
-  This project is licensed under the ${answers.license} License.
   
   ## Questions
   GitHub: [${answers.github}](https://github.com/${answers.github})

@@ -4,6 +4,10 @@
   ## Description
   This project allows a user to create a professional README file by using the inquirer package. All the user needs to do is answer a set of questions and then the README file will be generated
   
+  ## Video Demonstration
+ 
+  [Watch a video demonstration of README file creator](https://watch.screencastify.com/v/CIFkCTrZnVEhOMRRR752)
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)

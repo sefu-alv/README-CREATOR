@@ -6,7 +6,7 @@
   
   ## Video Demonstration
  
-  [Watch a video demonstration of README file creator](https://watch.screencastify.com/v/CIFkCTrZnVEhOMRRR752)
+  [Watch a video demonstration of README file creator](https://drive.google.com/file/d/1Sz1HZiaQXYUpQ_anUPUeSJhC7-EM6bGw/view)
 
   ## Table of Contents
   - [Installation](#installation)

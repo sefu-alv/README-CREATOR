@@ -51,8 +51,10 @@ const questions = [
   },
 ];
 
+// this function takes in parameters and uses them to make a file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, (err) => {
+      // checks for error if no error then the file is created
       if (err) {
         console.error(err);
       } else {
@@ -89,7 +91,7 @@ function writeToFile(fileName, data) {
   
   ## License
   This project is licensed under the ${answers.license} License.
-  
+
   ## Contributing
   ${answers.contributing}
   
@@ -109,5 +111,5 @@ function writeToFile(fileName, data) {
         console.error(error);
       });
   }
-  
+  // calling the function
   init();
